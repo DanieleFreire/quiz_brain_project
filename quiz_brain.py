@@ -1,4 +1,4 @@
-#TODO: asking the questions
+#asking the questions
 #checking if the answer was correct
 #checking if we're the end of the quiz
 
